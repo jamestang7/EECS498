@@ -1,7 +1,7 @@
 # EECS498
 EECS498 project 2 
 
-AIS data interpolation\
+AIS data interpolation
 
 The Automated Identification System (AIS) is an automated system for identifying and tracking marine vessels’ locations. AIS is composed of a transponder attached to each ship along with coastal and satellite-based receivers, providing useful data for the EPA. AIS is used for numerous functions such as Vessel Traffic Services (VTS), Commercial Fishing Monitoring, and Maritime Security. The NVFEL utilizes the AIS research to model marine emissions and incorporates the data into overall emissions and air quality models for the US territory. However, the AIS dataset is inherently noisy and incomplete, and there is an overwhelming amount of data.
 Our long-term goal is to develop models and use data science techniques to handle these sparse and high dimensional datasets. We aim to efficiently impute missing data to track vessels moving within the US coastal waters properly. The better we can model these datasets, the better we can model emissions. We plan to achieve these goals through two specific aims:
