@@ -17,4 +17,5 @@ Our long-term goal is to develop models and use data science techniques to handl
 ## Aim 2 
 – To determine the optimal interpolation method for given emissions data among a myriad of parametric curve-fitting techniques, including but not limited to: Non-linear Least Squares, B-Splines, Bézier curves, and Bézier splines. We hypothesize that a Bézier spline will perform the best, yielding the lowest test error rate estimation.
 
-
+# Acknoledgement
+I want to express my sincere gratitude to Arav, Hannah for their relentless collaboration and creativity, to Jonathan for his patiance and guidance on this project.
